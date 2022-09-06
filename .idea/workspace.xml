@@ -21,12 +21,14 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="CNAME" value="1" />
+          <entry key="css" value="1" />
           <entry key="html" value="2" />
           <entry key="js" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
+          <entry key="CSS" value="1" />
           <entry key="HTML" value="2" />
           <entry key="JavaScript" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
@@ -35,12 +37,12 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="CNAME" value="4" />
-          <entry key="html" value="547" />
+          <entry key="html" value="591" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="547" />
+          <entry key="HTML" value="591" />
           <entry key="PLAIN_TEXT" value="4" />
         </counts>
       </usages-collector>
@@ -60,8 +62,17 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="291">
-              <caret line="337" column="42" selection-start-line="337" selection-start-column="42" selection-end-line="337" selection-end-column="42" />
+            <state relative-caret-position="244">
+              <caret line="274" column="71" selection-start-line="274" selection-start-column="71" selection-end-line="274" selection-end-column="71" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public_html/assets/css/foodhut.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3025">
+              <caret line="835" column="1" lean-forward="true" selection-start-line="835" selection-start-column="1" selection-end-line="835" selection-end-column="1" />
             </state>
           </provider>
         </entry>
@@ -69,8 +80,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/public_html/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
-              <caret line="76" column="26" selection-start-line="76" selection-start-column="26" selection-end-line="76" selection-end-column="26" />
+            <state relative-caret-position="15">
+              <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
             </state>
           </provider>
         </entry>
@@ -84,9 +95,12 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>public</find>
       <find>com</find>
       <find>food</find>
+      <find>call</find>
+      <find>public</find>
+      <find>logo</find>
+      <find>revi</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -96,6 +110,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/CNAME" />
+        <option value="$PROJECT_DIR$/public_html/index.html" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -184,13 +199,6 @@
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/public_html/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="76" column="26" selection-start-line="76" selection-start-column="26" selection-end-line="76" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/js/foodhut.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -201,10 +209,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/assets/css/foodhut.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3025">
+          <caret line="835" column="1" lean-forward="true" selection-start-line="835" selection-start-column="1" selection-end-line="835" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public_html/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="16" column="7" selection-start-line="16" selection-start-column="7" selection-end-line="16" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="291">
-          <caret line="337" column="42" selection-start-line="337" selection-start-column="42" selection-end-line="337" selection-end-column="42" />
+        <state relative-caret-position="244">
+          <caret line="274" column="71" selection-start-line="274" selection-start-column="71" selection-end-line="274" selection-end-column="71" />
         </state>
       </provider>
     </entry>
