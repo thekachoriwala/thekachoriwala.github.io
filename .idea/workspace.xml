@@ -1,9 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd911c50-15f5-426c-b355-9d4a164c9d75" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/CNAME" beforeDir="false" afterPath="$PROJECT_DIR$/CNAME" afterDir="false" />
-    </list>
+    <list default="true" id="fd911c50-15f5-426c-b355-9d4a164c9d75" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,13 +19,13 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="CNAME" value="1" />
-          <entry key="html" value="1" />
+          <entry key="html" value="2" />
           <entry key="js" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="HTML" value="1" />
+          <entry key="HTML" value="2" />
           <entry key="JavaScript" value="1" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
@@ -35,10 +33,12 @@
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="CNAME" value="4" />
+          <entry key="html" value="17" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
+          <entry key="HTML" value="17" />
           <entry key="PLAIN_TEXT" value="4" />
         </counts>
       </usages-collector>
@@ -46,11 +46,20 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/CNAME">
           <provider selected="true" editor-type-id="text-editor">
             <state>
-              <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
+              <caret column="22" lean-forward="true" selection-start-column="22" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="448">
+              <caret line="363" column="56" selection-start-line="363" selection-start-column="56" selection-end-line="363" selection-end-column="56" />
             </state>
           </provider>
         </entry>
@@ -83,6 +92,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/CNAME" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -183,7 +193,14 @@
     <entry file="file://$PROJECT_DIR$/CNAME">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
+          <caret column="22" lean-forward="true" selection-start-column="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="448">
+          <caret line="363" column="56" selection-start-line="363" selection-start-column="56" selection-end-line="363" selection-end-column="56" />
         </state>
       </provider>
     </entry>
