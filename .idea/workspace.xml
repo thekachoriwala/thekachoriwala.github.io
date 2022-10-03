@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fd911c50-15f5-426c-b355-9d4a164c9d75" name="Default Changelist" comment="" />
+    <list default="true" id="fd911c50-15f5-426c-b355-9d4a164c9d75" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,29 +21,29 @@
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="CNAME" value="1" />
-          <entry key="css" value="1" />
+          <entry key="css" value="2" />
           <entry key="htm" value="1" />
           <entry key="html" value="2" />
-          <entry key="js" value="1" />
+          <entry key="js" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
-          <entry key="CSS" value="1" />
+          <entry key="CSS" value="2" />
           <entry key="HTML" value="3" />
-          <entry key="JavaScript" value="1" />
+          <entry key="JavaScript" value="2" />
           <entry key="PLAIN_TEXT" value="1" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
         <counts>
           <entry key="CNAME" value="4" />
-          <entry key="html" value="642" />
+          <entry key="html" value="673" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
-          <entry key="HTML" value="642" />
+          <entry key="HTML" value="673" />
           <entry key="PLAIN_TEXT" value="4" />
         </counts>
       </usages-collector>
@@ -58,11 +60,20 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gulpfile.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="20" column="10" lean-forward="true" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="4283">
-              <caret line="338" column="25" lean-forward="true" selection-start-line="338" selection-start-column="25" selection-end-line="338" selection-end-column="25" />
+            <state relative-caret-position="388">
+              <caret line="343" column="64" selection-start-line="343" selection-start-column="64" selection-end-line="343" selection-end-column="64" />
               <folding>
                 <element signature="n#style#0;n#h2#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -71,8 +82,21 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/css/foodhut.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5231">
+              <caret line="5143" column="15" selection-start-line="5143" selection-start-column="10" selection-end-line="5143" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/google067e42e794aa0868.htm">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="31" selection-start-column="31" selection-end-column="31" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -109,6 +133,10 @@
       <find>logo</find>
       <find>revi</find>
       <find>find us</find>
+      <find>info</find>
+      <find>over</find>
+      <find>overl</find>
+      <find>order</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -123,7 +151,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="y" value="23" />
     <option name="width" value="1440" />
     <option name="height" value="810" />
@@ -140,6 +168,11 @@
             <path>
               <item name="thekachoriwala.github.io" type="b2602c69:ProjectViewProjectNode" />
               <item name="thekachoriwala.github.io" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="thekachoriwala.github.io" type="b2602c69:ProjectViewProjectNode" />
+              <item name="thekachoriwala.github.io" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -181,7 +214,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="810" extended-state="0" />
+    <frame x="0" y="23" width="1440" height="807" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
@@ -210,13 +243,6 @@
     <entry file="file://$PROJECT_DIR$/assets/js/foodhut.js">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/CNAME">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="22" selection-start-column="22" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public_html/assets/css/foodhut.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="3025">
@@ -231,13 +257,38 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/css/foodhut.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5231">
+          <caret line="5143" column="15" selection-start-line="5143" selection-start-column="10" selection-end-line="5143" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/CNAME">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="22" selection-start-column="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/google067e42e794aa0868.htm">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="31" selection-start-column="31" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="20" column="10" lean-forward="true" selection-start-line="20" selection-start-column="10" selection-end-line="20" selection-end-column="10" />
+        </state>
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="4283">
-          <caret line="338" column="25" lean-forward="true" selection-start-line="338" selection-start-column="25" selection-end-line="338" selection-end-column="25" />
+        <state relative-caret-position="388">
+          <caret line="343" column="64" selection-start-line="343" selection-start-column="64" selection-end-line="343" selection-end-column="64" />
           <folding>
             <element signature="n#style#0;n#h2#0;n#div#1;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
